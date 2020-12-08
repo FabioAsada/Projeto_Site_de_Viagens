@@ -8,3 +8,7 @@
 
 ![mostrando o site no desktop](https://github.com/FabioAsada/Projeto_Site_de_Viagens/blob/main/siteViagens.gif)
 
+## Mobile
+
+![mostrando o site no mobile](https://github.com/FabioAsada/Projeto_Site_de_Viagens/blob/main/siteViagensMobile.gif)
+
